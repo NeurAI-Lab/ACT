@@ -90,7 +90,7 @@ is enabled.
 
 **Valid model choices:** (ResNet10, ResNet18, ResNet34, ResNet50, ResNet101, ResNet152, WRN-10-2, WRN-16-2, WRN-28-2, WRN-28-10, WRN-40-2,)
 
-###Cite Our Work
+### Cite Our Work
 If you find the code useful in your research, please consider citing our paper:
 
 <pre>
@@ -102,5 +102,5 @@ If you find the code useful in your research, please consider citing our paper:
 }
 </pre>
 
-###License
+### License
 This project is licensed under the terms of the MIT license.

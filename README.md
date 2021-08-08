@@ -45,7 +45,7 @@ For parameters check the file.
 
 * Whitebox Attack
 ```
-python metrics/pgd_attack.py --model-pat /path/to/saved/model.pt --epsilon 8/255 --num-steps 20 
+python metrics/pgd_attack.py --model-path /path/to/saved/model.pt --epsilon 8/255 --num-steps 20 
 ```
 
 * Blackbox Attack

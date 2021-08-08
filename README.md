@@ -14,7 +14,7 @@ For details, please see the
 and [Presentation](https://www.youtube.com/watch?v=P-DYr1IMcAk&ab_channel=NeurAI) 
 
 
-### Requirements
+## Requirements
 * Python 3.7.3
 * Pytorch 1.1.0
 * Torchvision 0.3.0
@@ -89,3 +89,18 @@ is enabled.
 * **step_size:** Step size for PGD attack. Default 0.0007.
 
 **Valid model choices:** (ResNet10, ResNet18, ResNet34, ResNet50, ResNet101, ResNet152, WRN-10-2, WRN-16-2, WRN-28-2, WRN-28-10, WRN-40-2,)
+
+###Cite Our Work
+If you find the code useful in your research, please consider citing our paper:
+
+<pre>
+@article{arani2020adversarial,
+  title={Adversarial Concurrent Training: Optimizing Robustness and Accuracy Trade-off of Deep Neural Networks},
+  author={Arani, Elahe and Sarfraz, Fahad and Zonooz, Bahram},
+  journal={arXiv preprint arXiv:2008.07015},
+  year={2020}
+}
+</pre>
+
+###License
+This project is licensed under the terms of the MIT license.

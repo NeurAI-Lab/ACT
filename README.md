@@ -1,7 +1,7 @@
 # Adversarial Concurrent Training (ACT)
 
 This is the official code for the BMVC'20 Paper ["Adversarial Concurrent Training: Optimizing Robustness and Accuracy Trade-off of Deep Neural Networks"](https://arxiv.org/abs/2008.07015) by 
-[Elahe Arani](https://www.researchgate.net/profile/Elahe-Arani), [Fahad Sarfraz](https://scholar.google.com/citations?user=Zhx_sM4AAAAJ&hl=en) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ)
+[Elahe Arani](https://www.linkedin.com/in/elahe-arani-630870b2/), [Fahad Sarfraz](https://scholar.google.com/citations?user=Zhx_sM4AAAAJ&hl=en) and [Bahram Zonooz](https://scholar.google.com/citations?hl=en&user=FZmIlY8AAAAJ)
 
 
 ![alt text](images/ACT_DNA.png "ACT")
